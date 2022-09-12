@@ -6,3 +6,13 @@ Ele será uma aplicação web onde o usuário conseguirá através da geolocaliz
 * Média da quantidade de pessoas nas proximidades;
 * Horários em que esses estabelecimentos recebem mais visitações;
 * Visualização do mapa de calor da cidade e em qual fase cada região se encontra em relação ao COVID;
+
+Nesta versão deverá ser testada a função de cadastro do aplicativo WEB.
+
+Integrantes do grupo:
+
+Dayana do Prado Silva
+Diego de Almeida Costa
+Maria Idalina da Silva e Pinto
+Monica Tatiane de Sousa
+Rejane França do Sacramento
