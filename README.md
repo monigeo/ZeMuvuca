@@ -11,8 +11,4 @@ Nesta versão deverá ser testada a função de cadastro do aplicativo WEB.
 
 Integrantes do grupo:
 
-*Dayana do Prado Silva
-*Diego de Almeida Costa
-*Maria Idalina da Silva e Pinto
-*Monica Tatiane de Sousa
-*Rejane França do Sacramento
+Dayana do Prado Silva, Diego de Almeida Costa, Maria Idalina da Silva e Pinto, Monica Tatiane de Sousa, Rejane França do Sacramento
